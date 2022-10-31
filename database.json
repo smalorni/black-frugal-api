@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Thomas Rhett",
+            "email": "thomas.rhett@gmail.com",
+            "password": "me"
+        },
+        {
+            "id": 2,
+            "name": "Linda Jamesons",
+            "email": "lindajamesons@gmail.com",
+            "password": "me"
+        }
+    ],
+    "lists": [
+        {
+            "id": 1,
+            "userId": 2,
+            "itemName": "Epson SureColor F170",
+            "price": 399.99,
+            "store": "All American Print Supply"
+        },
+        {
+            "id": 2,
+            "userId": 2,
+            "itemName": "KitchenAid 5-qt. Artisan Series Fresh Prep Attachment Bundle KSM150FB",
+            "price": 349.99,
+            "store": "Kohl's"
+        },
+        {
+            "id": 3,
+            "userId": 1,
+            "itemName": "Angel's Envy Bourbon 750ML",
+            "price": 44.99,
+            "store": "Kentucky Bourbon Factory"
+        }
+    ]
+}
